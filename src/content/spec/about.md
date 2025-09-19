@@ -1,54 +1,27 @@
-# About This Site
+# 关于我
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+你好，欢迎来到我的小站！  
+这里是我在互联网上的一片小天地，用来记录折腾、分享和创造。  
 
-::github{repo="matsuzaka-yuki/Mizuki"}
+## 我是谁
+我是一个热爱数码科技的折腾党，喜欢探索各种有趣的硬件、软件和网络技术。  
+从系统优化到网络部署，从前端到服务器，只要是能折腾的东西，我都想试一试。  
 
-## 🌟 Theme Features
+## 关于这个博客
+本博客基于 **Astro + Mizuki** 搭建，简洁、美观、快速，并且支持丰富的 Markdown 扩展。  
+内容主要包含：
+- 📱 数码设备与系统折腾
+- 🌐 网络与建站技术
+- 💡 技术小技巧与经验分享
+- 🛠 个人开源项目记录
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+## 我的项目
+::github{repo="bcsm114514/PingTools"}
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
-
-### 🌐 Internationalization
-- **Multi-language Support** - Real-time translation capabilities
-- **Auto Language Detection** - Detects user preferences automatically
-- **Client-side Translation** - Powered by Edge Translate technology
-- **10+ Languages Supported** - EN, ZH-CN, ZH-TW, JA, KO, ES, TH, VI, ID, TR
-
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
-
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+## 建站初衷
+我希望这个博客不仅是我的个人技术笔记，也能帮助到后来者少踩坑。  
+这里的文章大多来自我亲自实践和测试的经验，希望它们对你有所帮助。  
 
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+*愿我们都能在不断探索的路上，收获知识与乐趣。*
