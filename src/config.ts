@@ -46,10 +46,10 @@ export const siteConfig: SiteConfig = {
 		// 支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播
 		src: {
 			desktop: [
-				"https://img.bcsm.us.kg/bcsm114514/img/refs/heads/main/backend.jpg",
+				"/images/img/backend.webp",
 			], // 桌面横幅图片
 			mobile: [
-				"https://img.bcsm.us.kg/bcsm114514/img/refs/heads/main/backend.jpg",
+				"/images/img/backend.webp",
 			], // 移动横幅图片
 		}, // 使用本地横幅图片
 
@@ -187,7 +187,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "/images/img/icon.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	avatar: "/images/img/icon.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "北辰三梦",
 	bio: "Zero in your target, and go for it.",
 	links: [
