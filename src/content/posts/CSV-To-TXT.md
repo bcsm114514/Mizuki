@@ -1,11 +1,13 @@
 ---
+image: ''
 title: 将多个CSV的第一行集合为TXT的Python小工具
 published: 2025-08-28
+updated: ''
 description: ''
-image: ''
-tags: ['CSV-To-TXT']
-category: '数码'
-draft: false 
+category: 数码
+tags:
+  - CSV-To-TXT
+draft: false
 lang: ''
 ---
 # CSV-To-TXT
@@ -37,7 +39,6 @@ lang: ''
 ## 🚀 使用方法
 
 1. 克隆或下载本项目代码
-
 2. 运行脚本：
 
 ```bash
@@ -52,11 +53,11 @@ python CSV-To-TXT.py
 
 👉 如果不输入输出文件路径，程序会默认生成 merged_first_columns.txt。
 
-##🖥️ 示例
+## 🖥️ 示例
 
 假设目录 ./data/ 下有 3 个文件：
 
-```
+```plain
 data1.csv
 data2.csv
 data3.csv
@@ -64,13 +65,13 @@ data3.csv
 
 运行脚本后，会生成一个 TXT 文件：
 
-```
+```plain
 merged_first_columns.txt
 ```
 
 内容类似：
 
-```
+```plain
 Alice
 Bob
 Charlie
@@ -79,10 +80,8 @@ Eve
 ...
 ```
 
-##✅ 应用场景
+## ✅ 应用场景
 
 - 提取用户 ID、邮箱等第一列数据
-
 - 批量整理数据采集结果
-
 - 将 CSV 转换为 TXT 清单
