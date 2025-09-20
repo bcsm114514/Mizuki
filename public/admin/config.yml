@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: bcsm114514/Mizuki
-  branch: main # Branch to update (optional; defaults to master)
+  branch: master # Branch to update (optional; defaults to master)
   site_domain: https://bcsm.us.kg
   base_url: https://bcsm.us.kg
   auth_endpoint: /api/auth
