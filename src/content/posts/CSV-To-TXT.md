@@ -5,8 +5,7 @@ published: 2025-08-28
 updated: ''
 description: ''
 category: 数码
-tags:
-  - CSV-To-TXT
+tags: ["CSV-To-TXT"]
 draft: false
 lang: ''
 ---
