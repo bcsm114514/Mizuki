@@ -38,6 +38,7 @@
 		"astro-icon": "^1.1.5",
 		"bcryptjs": "^3.0.2",
 		"crypto-js": "^4.2.0",
+		"decap-cms-app": "^3.8.3",
 		"hastscript": "^9.0.1",
 		"katex": "^0.16.22",
 		"markdown-it": "^14.1.0",

@@ -46,10 +46,10 @@ export const siteConfig: SiteConfig = {
 		// 支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播
 		src: {
 			desktop: [
-				"/images/img/backend.jpg",
+				"https://img.bcsm.us.kg/bcsm114514/img/refs/heads/main/backend.jpg",
 			], // 桌面横幅图片
 			mobile: [
-				"/images/img/backend.jpg",
+				"https://img.bcsm.us.kg/bcsm114514/img/refs/heads/main/backend.jpg",
 			], // 移动横幅图片
 		}, // 使用本地横幅图片
 
