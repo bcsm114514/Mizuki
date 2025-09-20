@@ -1,13 +1,12 @@
 ---
-image: ''
 title: 将多个CSV的第一行集合为TXT的Python小工具
 published: 2025-08-28
-updated: ''
 description: ''
 category: 数码
 tags: ["CSV-To-TXT"]
 draft: false
 lang: ''
+image: ''
 ---
 # CSV-To-TXT
 
