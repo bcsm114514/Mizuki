@@ -3,10 +3,11 @@ title: 将多个CSV的第一行集合为TXT的Python小工具
 published: 2025-08-28
 description: ''
 category: 数码
-tags: ["CSV-To-TXT"]
+tags:
+  - CSV-To-TXT
+image: ''
 draft: false
 lang: ''
-image: ''
 ---
 # CSV-To-TXT
 
@@ -83,3 +84,5 @@ Eve
 - 提取用户 ID、邮箱等第一列数据
 - 批量整理数据采集结果
 - 将 CSV 转换为 TXT 清单
+
+### 赶紧去使用吧！
