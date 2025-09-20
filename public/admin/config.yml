@@ -1,6 +1,13 @@
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  name: github
+  repo: bcsm114514/Mizuki
+  branch: main # Branch to update (optional; defaults to master)
+  site_domain: https://bcsm.us.kg
+  base_url: https://bcsm.us.kg
+  auth_endpoint: /api/auth
+
+media_folder: public/images/img
+public_folder: /images/img
 
 collections:
   - name: 'posts'
