@@ -115,7 +115,7 @@ export const siteConfig: SiteConfig = {
 	// 字体配置
 	font: {
 		zenMaruGothic: {
-			enable: true, // 启用全局圆体
+			enable: false, // 启用全局圆体
 		},
 	},
 };
@@ -243,7 +243,7 @@ export const announcementConfig: AnnouncementConfig = {
 };
 
 export const musicPlayerConfig: MusicPlayerConfig = {
-	enable: true, // 启用音乐播放器功能
+	enable: false, // 启用音乐播放器功能
 };
 
 export const footerConfig: FooterConfig = {
